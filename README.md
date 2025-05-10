@@ -84,6 +84,17 @@
 - 대화 기록 / 피드백 / 모범 답변이 **로컬 서버에 저장**
 - 이전 면접 내역을 기록 확인 화면에서 열람 가능
 
+### 4. 서비스 화면
+![Company1](https://github.com/user-attachments/assets/4a024206-f23e-4ee8-8c7b-b7334f9bbb1b)
+![Company2](https://github.com/user-attachments/assets/19495373-dd01-4c26-87f3-14777095d7c3)
+![Company3](https://github.com/user-attachments/assets/b963142f-3a15-4b17-9982-a0cca94baf59)
+![Personal1](https://github.com/user-attachments/assets/dbdf34e9-a401-4da8-99bc-f66e856775c1)
+![Personal2-1](https://github.com/user-attachments/assets/2c49e523-dc5d-45c6-881a-22799be5440d)
+![Personal2-2](https://github.com/user-attachments/assets/27bb801a-b163-48c0-b39d-b2cf3dd6fcb0)
+![Personal3-1](https://github.com/user-attachments/assets/a10ab54c-1253-4c96-b668-2d6c4f9655ab)
+![Personal3-2](https://github.com/user-attachments/assets/2f22776d-1a69-49c9-8ba3-103bbf046025)
+![Personal4](https://github.com/user-attachments/assets/a56adbfe-998f-40c9-b5e3-584306a5d3dd)
+
 ---
 
 ## 🌟 사용자 가치
